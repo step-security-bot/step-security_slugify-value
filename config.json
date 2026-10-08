@@ -1,0 +1,13 @@
+{
+ "onboarding_type": "copied",
+ "is_archived": false,
+ "maintained_action_name": "step-security/slugify-value",
+ "upstream_full_action_name": "rlespinasse/slugify-value",
+ "action_type": "composite",
+ "current_version": "v1.4.1",
+ "sync_config": {
+  "ignore_presets": [
+   "defaults_v1"
+  ]
+ }
+}
